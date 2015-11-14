@@ -1,0 +1,24 @@
+/home/eduardo/Downloads/obdBT/android-build/gen/org/qtproject/example/obdBT/R.java \
+ : /home/eduardo/Downloads/obdBT/android-build/res/values-nb/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-it/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-fr/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-zh-rCN/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-fa/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-rs/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-ru/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-pt-rBR/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-de/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-es/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-pl/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-ms/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/layout/splash.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-zh-rTW/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-nl/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-ro/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-ja/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values/libs.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-el/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-id/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/res/values-et/strings.xml \
+/home/eduardo/Downloads/obdBT/android-build/bin/AndroidManifest.xml \
